@@ -1,0 +1,15 @@
+
+# VSCode
+.vscode/
+
+
+# Mypy
+.mypy_cache/
+
+
+# Python
+__pycache__
+
+
+# Python 2
+*.pyc
